@@ -1,6 +1,6 @@
 # Vulnerable Java corpus generator
 
-`generate_vulns.py` generates a synthetic corpus of **intentionally vulnerable** Java servlets for SAST benchmarking and testing. 
+AI-generated python utility. `generate_vulns.py` generates a synthetic corpus of **intentionally vulnerable** Java servlets for SAST benchmarking and testing. 
 
 # ******** DO NOT deploy the output code ********
 
