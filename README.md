@@ -2,7 +2,9 @@
 
 AI-generated python utility. `generate_vulns.py` generates a synthetic corpus of **intentionally vulnerable** Java servlets for SAST benchmarking and testing. 
 
-# ******** DO NOT deploy the output code ********
+
+### ******** Use the generated code for scanning. DO NOT deploy the output code ********
+
 
 | Type | Source | Sink |
 |------|--------|------|
